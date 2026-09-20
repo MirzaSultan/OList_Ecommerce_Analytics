@@ -1,0 +1,13 @@
+# Block operating system junk files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Block local Python environment files (if you ever run scripts locally)
+*.pyc
+__pycache__/
+.venv/
+env/
+
+# Block temporary Power BI or backup files if you open them locally
+*.tmp
