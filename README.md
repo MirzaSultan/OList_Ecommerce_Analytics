@@ -623,19 +623,19 @@ spark.sql("CREATE SCHEMA IF NOT EXISTS olist_ecommerce_project.gold")
 ![Executive Overview](https://github.com/MirzaSultan/OList_Ecommerce_Analytics/blob/main/powerbi_documentation/Screenshot%202026-09-20%20225840.png)
 
 ### Sales & Revenue
-![Sales Revenue](powerbi_documentation/Screenshot 2026-09-20 225905.png)
+![Sales Revenue](https://github.com/MirzaSultan/OList_Ecommerce_Analytics/blob/main/powerbi_documentation/Screenshot%202026-09-20%20225905.png)
 
 ### Delivery Performance
-![Delivery Performance](powerbi_documentation/Screenshot 2026-09-20 225925.png)
+![Delivery Performance](https://github.com/MirzaSultan/OList_Ecommerce_Analytics/blob/main/powerbi_documentation/Screenshot%202026-09-20%20225925.png)
 
 ### Customer Behavior
-![Customer Behavior](powerbi_documentation/Screenshot 2026-09-20 225946.png)
+![Customer Behavior](https://github.com/MirzaSultan/OList_Ecommerce_Analytics/blob/main/powerbi_documentation/Screenshot%202026-09-20%20225946.png)
 
 ### Seller Performance
-![Seller Performance](powerbi_documentation/Screenshot 2026-09-20 230002.png)
+![Seller Performance](https://github.com/MirzaSultan/OList_Ecommerce_Analytics/blob/main/powerbi_documentation/Screenshot%202026-09-20%20230002.png)
 
 ### Payment Analysis
-![Payment Analysis](powerbi_documentation/Screenshot 2026-09-20 230021.png)
+![Payment Analysis](https://github.com/MirzaSultan/OList_Ecommerce_Analytics/blob/main/powerbi_documentation/Screenshot%202026-09-20%20230021.png)
 
 ---
 
