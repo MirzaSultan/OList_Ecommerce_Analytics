@@ -643,8 +643,8 @@ spark.sql("CREATE SCHEMA IF NOT EXISTS olist_ecommerce_project.gold")
 
 If you found this project helpful or have questions about any layer of the implementation, feel free to connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mirza-sultan)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/MirzaSultan)
 
 ---
 
