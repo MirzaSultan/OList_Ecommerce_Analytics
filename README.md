@@ -620,7 +620,7 @@ spark.sql("CREATE SCHEMA IF NOT EXISTS olist_ecommerce_project.gold")
 ## 📊 Dashboard Screenshots
 
 ### Executive Business Overview
-![Executive Overview](OList_Ecommerce_Analytics/powerbi_documentation/Screenshot 2026-09-20 225840.png)
+![Executive Overview](https://github.com/MirzaSultan/OList_Ecommerce_Analytics/blob/main/powerbi_documentation/Screenshot%202026-09-20%20225840.png)
 
 ### Sales & Revenue
 ![Sales Revenue](powerbi_documentation/Screenshot 2026-09-20 225905.png)
